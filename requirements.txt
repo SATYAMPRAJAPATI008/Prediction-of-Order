@@ -1,6 +1,7 @@
-numpy
+numpy==1.20.1
 scikit-learn==1.0.2
-pandas
-xgboost
-streamlit
-pillow
+pandas==1.4.2
+pickle
+xgboost==2.1.4
+streamlit==1.19.0
+Pillow==9.0.1
